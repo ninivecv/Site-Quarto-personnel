@@ -9,7 +9,7 @@ Contexte: Suivi du cours STT-4230/STT-6230 en créant et en remplissant progress
 
 Production: Un dépôt `Git` personnel, structuré par dossiers thématiques (`data/`, `figures/`, `R/`), contenant des traces concrètes d'apprentissage validées par des commits réguliers.
 
-Outils: `R`, `RStudio`, `Git`, `GitHub`, `Quarto.`
+Outils: `R`, `RStudio`, `Git`, `GitHub`, `Quarto`.
 
 Vérification: Vérification hebdomadaire du bon fonctionnement des scripts à partir de la racine, en utilisant des chemins relatifs et en clarifiant les messages de commit pour documenter l’avancement.
 
