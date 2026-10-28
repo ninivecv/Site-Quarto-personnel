@@ -3,16 +3,33 @@ title: "Déclaration IA"
 embed-resources: true
 ---
 
-Indiquer ici les usages significatifs de l’IA générative qui ont influencé le texte, la structure, le code ou le design du site.
+<!-- Indiquer ici les usages significatifs de l’IA générative qui ont influencé le texte, la structure, le code ou le design du site. -->
 
-Pour chaque usage significatif:
+<!-- Pour chaque usage significatif: -->
 
-- outil utilisé;
-- tâche demandée;
-- éléments conservés;
-- vérifications effectuées;
-- modifications apportées.
+<!-- - outil utilisé; -->
+<!-- - tâche demandée; -->
+<!-- - éléments conservés; -->
+<!-- - vérifications effectuées; -->
+<!-- - modifications apportées. -->
 
-Si aucun usage significatif n’a influencé le site, écrire:
 
-> Aucun usage significatif de l’IA générative n’a influencé le site remis.
+## Usage 1: Résolution d'un problème de clonage `Git`
+
+- Outil utilisé: Gemini - Assistant IA (modèle de langage)
+- Tâche demandée: Résoudre une erreur de clonage de dépôt survenue au début du projet.
+- Éléments conservés: Les commandes de diagnostic `git` et la méthode étape par étape pour régler le problème de lien avec `GitHub.`
+- Vérifications effectuées: Test de la commande `git clone` dans le terminal et validation du bon téléchargement des fichiers à la racine du projet.
+- Modifications apportées: Adaptation de la solution fournie au contexte de mes identifiants de dépôt `GitHub.`
+- Lien vers la discussion IA: https://share.gemini.google/2TQIAgMIdlXy
+
+## Usage 2: Révision linguistique et reformulation des textes
+
+- Outil utilisé: Antidote (outil de correction et assistant de reformulation intégré)
+- Tâche demandée: Améliorer la fluidité, la correction syntaxique et la formulation des phrases.
+- Éléments conservés: Le sens global, les faits biographiques (formations, expériences) et le ton professionnel souhaité.
+- Vérifications effectuées: Relecture de chaque proposition de reformulation pour garantir l’intégrité des informations.
+- Modifications apportées: Validation sélective des suggestions de synonymes et correction de tournures syntaxiques pour obtenir un style plus soigné.
+
+
+
