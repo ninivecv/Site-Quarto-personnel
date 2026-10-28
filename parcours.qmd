@@ -5,15 +5,42 @@ embed-resources: true
 
 ## Parcours
 
-Décrire brièvement le parcours ou les intérêts professionnels.
+Ma carrière s’étend de la rigueur de la recherche en mathématiques à l’analyse statistique appliquée, en passant par des expériences pratiques dans l’industrie et le secteur public.
+Depuis la création de systèmes complexes dans l’ingénierie aéronautique chez Bombardier jusqu’à l’analyse de données de télécommunications pour ISDE, en passant par mon implication bénévole aux Jeux mathématiques de l’AJMQ et mon expérience de coopération internationale au Sénégal, j’ai acquis une vaste expérience dans des domaines variés. Aujourd’hui, je mélange mon approche multidisciplinaire et mon intérêt pour les outils reproductibles (`Quarto`, `R`) pour convertir des données complexes en résultats simples et convaincants.
 
 ## Compétences
 
-- R et tidyverse
-- Quarto
-- Git et GitHub
-- Visualisation de données
+- Programmation et outils : `R` (`tidyverse`), `Python`, `C++`, `Java`, `LaTeX`, `Maple`, `AMPL`, `VBA`
+- Reproductibilité et gestion de projet : `Quarto`, `Git`, `GitHub`, `Microsoft Project`
+- Visualisation et bases de données : `Power BI`, `MapInfo`, `Google Earth`, `Excel`, `Microsoft Access`
+- Conception et ingénierie : `Siemens NX` (maquettes numériques)
 
-## Expériences ou formations
+## Formations
 
-Ajouter uniquement les éléments que vous acceptez de rendre publics.
+- Certificat de 1er cycle en Statistique | Université Laval (août 2026 – à ce jour)
+- Baccalauréat en Mathématiques | Université de Sherbrooke (janvier 2023 – avril 2026)
+- Diplôme d'études collégiales (DEC) en Sciences de la nature | Cégep de Drummondville (août 2020 – novembre 2022)
+
+## Expériences
+
+### Stage en ingénierie – Câblage électrique | Bombardier Aéronautique (janvier 2025 – avril 2025 | Dorval, QC)
+
+- Contribution à la conception des systèmes de câblage électrique (EWIS) dans les maquettes numériques (DMU) à l’aide de NX et d’une souris 3D, ainsi qu’à l’élaboration de schémas électriques pour les HDR (Harness Data Reports).
+- Développement et automatisation de tâches avec des macrocommandes `VBA` dans `Microsoft Excel`, et participation à la gestion des changements du câblage électrique via `Microsoft Project` et `Word.`
+- Coordination de la gestion de projet dans le cadre du programme de recherche Bombardier EcoJet (organisation de réunions, planification de l'ordre du jour et suivi des actions).
+
+### Stage en ingénierie de projets de télécommunications | Innovation, Sciences et Développement économique Canada - ISDE (mai 2024 – août 2024 | Ottawa, ON)
+
+- Soutien à l'équipe d'ingénierie dans les négociations et le suivi des dossiers, mise à jour des informations dans `Salesforce` et gestion documentaire (`GcDocs`).
+- Analyse des réclamations de divers projets, saisie de données et développement d'outils de suivi (trackers) dans `Excel.`
+- Utilisation d'outils de cartographie et de visualisation (`Power BI`, `Google Earth`, `MapInfo`, `Microsoft Access`) et vérification de la démographie (Persons per Household - PHH).
+
+### Tutrice en mathématiques | Tutorat Pro (mai 2023 – juillet 2023 | Laval, QC)
+
+- Accompagnement individualisé des élèves pour améliorer leurs compétences mathématiques, explication des concepts et suivi régulier de leur progression.
+- Élaboration de méthodes pédagogiques adaptées mettant en valeur l'adaptabilité, l'organisation et la planification.
+
+### Opératrice de production | Kimpex (juin 2022 – août 2022 | Drummondville, QC)
+
+- Inspection minutieuse des matériaux et des pièces avant leur chargement sur la ligne de production.
+- Approfondissement des connaissances pratiques sur les pièces et accessoires de véhicules récréatifs (motoneiges, VTT/UTV, motos) et produits marins.
