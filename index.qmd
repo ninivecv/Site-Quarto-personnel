@@ -1,20 +1,24 @@
 ---
-title: "Prénom Nom"
+title: "Ninive Cunha Vigeant"
 embed-resources: true
 ---
 
 ## Présentation
 
-Court paragraphe de présentation académique ou professionnelle.
+Je suis une étudiante passionnée par les mathématiques, les statistiques et les sciences de données. Je développe mes compétences en résolution de problèmes, en analyse statistique et en programmation grâce à des outils tels que `R`, `Java`, `Python` et `LaTeX.` Je m’intéresse particulièrement à la modélisation, au développement d’outils interactifs et à la visualisation. Je m’investis donc dans des environnements de travail exigeants et reproductibles. Je suis également ouverte à de nouvelles perspectives académiques, à des stages ou à des projets de recherche pour élargir mes connaissances et accroître mon expérience.
 
 ## Intérêts
 
-- Science des données
-- Programmation R
-- Visualisation
+- Science des données et analyse statistique
+- Programmation (`R`, `Python`, `Java`) et reproductibilité (`Quarto`, `LaTeX`)
+- Visualisation de données et tableaux de bord (`Power BI`, `MapInfo`)
+- Implication communautaire, bénévolat (Jeux mathématiques de l'AJMQ) et ouverture internationale (aide coopérative)
+
 
 ## Liens
 
-- GitHub: <https://github.com/identifiant>
-- Site publié: <https://identifiant.github.io/nom-du-depot/>
-- Portfolio public ou trace publique, si autorisé: <lien>
+- GitHub: <https://github.com/ninivecv>
+- Site publié: <https://github.com/ninivecv/Site-Quarto-personnel>
+- LinkedIn: https://www.linkedin.com/in/ninive-cunha-vigeant-563523299/?locale=fr-FR
+
+
