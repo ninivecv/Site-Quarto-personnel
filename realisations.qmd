@@ -19,7 +19,7 @@ Amélioration possible: Automatiser la création hebdomadaire des fichiers `READ
 
 Trace source dans le portfolio: `semaines/`
 
-Lien: https://github.com/ninivecv
+Lien: <https://github.com/ninivecv>
 
 ## Projet - Analyse comparative des listes d'attente chirurgicale et les délais d'attente des urgences au Québec
 

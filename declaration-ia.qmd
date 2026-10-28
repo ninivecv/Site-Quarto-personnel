@@ -21,7 +21,7 @@ embed-resources: true
 - Éléments conservés: Les commandes de diagnostic `git` et la méthode étape par étape pour régler le problème de lien avec `GitHub.`
 - Vérifications effectuées: Test de la commande `git clone` dans le terminal et validation du bon téléchargement des fichiers à la racine du projet.
 - Modifications apportées: Adaptation de la solution fournie au contexte de mes identifiants de dépôt `GitHub.`
-- Lien vers la discussion IA: https://share.gemini.google/2TQIAgMIdlXy
+- Lien vers la discussion IA: <https://share.gemini.google/2TQIAgMIdlXy>
 
 ## Usage 2: Révision linguistique et reformulation des textes
 
