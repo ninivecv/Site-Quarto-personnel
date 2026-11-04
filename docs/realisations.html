@@ -4061,7 +4061,7 @@ letter-spacing: 0;
     <h2 id="toc-title">Sur cette page</h2>
    
   <ul>
-  <li><a href="#trace-du-portfolio" id="toc-trace-du-portfolio" class="nav-link active" data-scroll-target="#trace-du-portfolio">Trace du portfolio</a></li>
+  <li><a href="#portfolio-dapprentissages" id="toc-portfolio-dapprentissages" class="nav-link active" data-scroll-target="#portfolio-dapprentissages">Portfolio d’apprentissages</a></li>
   <li><a href="#projet---analyse-comparative-des-listes-dattente-chirurgicale-et-les-délais-dattente-des-urgences-au-québec" id="toc-projet---analyse-comparative-des-listes-dattente-chirurgicale-et-les-délais-dattente-des-urgences-au-québec" class="nav-link" data-scroll-target="#projet---analyse-comparative-des-listes-dattente-chirurgicale-et-les-délais-dattente-des-urgences-au-québec">Projet - Analyse comparative des listes d’attente chirurgicale et les délais d’attente des urgences au Québec</a></li>
   <li><a href="#justification-technique-courte" id="toc-justification-technique-courte" class="nav-link" data-scroll-target="#justification-technique-courte">Justification technique courte</a></li>
   </ul>
@@ -4089,16 +4089,16 @@ letter-spacing: 0;
 </header>
 
 
-<section id="trace-du-portfolio" class="level2">
-<h2 class="anchored" data-anchor-id="trace-du-portfolio">Trace du portfolio</h2>
+<section id="portfolio-dapprentissages" class="level2">
+<h2 class="anchored" data-anchor-id="portfolio-dapprentissages">Portfolio d’apprentissages</h2>
 <p>Contexte: Suivi du cours STT-4230/STT-6230 en créant et en remplissant progressivement un dépôt de sessions bien structuré, organisé par semaine (<code>semaine-XX/</code>), pour y noter les lectures, les exercices, le code et les réflexions.</p>
 <p>Production: Un dépôt <code>Git</code> personnel, structuré par dossiers thématiques (<code>data/</code>, <code>figures/</code>, <code>R/</code>), contenant des traces concrètes d’apprentissage validées par des commits réguliers.</p>
-<p>Outils: <code>R</code>, <code>RStudio</code>, <code>Git</code>, <code>GitHub</code>, <code>Quarto.</code></p>
+<p>Outils: <code>R</code>, <code>RStudio</code>, <code>Git</code>, <code>GitHub</code>, <code>Quarto</code>.</p>
 <p>Vérification: Vérification hebdomadaire du bon fonctionnement des scripts à partir de la racine, en utilisant des chemins relatifs et en clarifiant les messages de commit pour documenter l’avancement.</p>
 <p>Ce que cette réalisation démontre: Une excellente rigueur organisationnelle, un respect strict des bonnes pratiques de reproductibilité et une autonomie dans la gestion de projets de programmation statistique.</p>
 <p>Amélioration possible: Automatiser la création hebdomadaire des fichiers <code>README.md</code> pour éliminer la répétition et optimiser la documentation standardisée.</p>
-<p>Trace source dans le portfolio: <code>semaines/</code></p>
-<p>Lien: <a href="https://github.com/ninivecv" class="uri">https://github.com/ninivecv</a></p>
+<p>Trace source dans le portfolio: Dépôt <code>GitHub</code></p>
+<p>Lien: <a href="https://github.com/STT-4230-6230/portfolio-stt4230-nicuv" class="uri">https://github.com/STT-4230-6230/portfolio-stt4230-nicuv</a></p>
 </section>
 <section id="projet---analyse-comparative-des-listes-dattente-chirurgicale-et-les-délais-dattente-des-urgences-au-québec" class="level2">
 <h2 class="anchored" data-anchor-id="projet---analyse-comparative-des-listes-dattente-chirurgicale-et-les-délais-dattente-des-urgences-au-québec">Projet - Analyse comparative des listes d’attente chirurgicale et les délais d’attente des urgences au Québec</h2>
@@ -4108,14 +4108,14 @@ letter-spacing: 0;
 <p>Vérification: Assurer que le nombre de patients par région administrative du Québec correspond aux données totales de la source (Données Québec) et mettre en place des tests unitaires pour les filtres de l’application.</p>
 <p>Ce que cette réalisation démontre: La capacité de diriger un projet complexe dans plusieurs domaines, la maîtrise de l’analyse de données en santé publique et la conception d’une application interactive.</p>
 <p>Limite: Gérer la complexité de l’extraction automatisée (<code>GitHub Actions</code>) en tenant compte des éventuelles variations de la structure du site source.</p>
-<p>Trace source dans le projet: Dossier racine du dépôt d’équipe</p>
+<p>Trace source dans le projet: Dépôt privé sur <code>GitHub</code></p>
 </section>
 <section id="justification-technique-courte" class="level2">
 <h2 class="anchored" data-anchor-id="justification-technique-courte">Justification technique courte</h2>
 <!-- Expliquer un choix technique important: structure du dépôt, validation, dépendances, rendu Quarto, visualisation, fonction, test ou publication GitHub Pages. -->
 <!-- Pour STT-6230, ajouter une dimension plus avancée: comparaison d’approches, validation supplémentaire, analyse de performance, limite méthodologique ou justification d’architecture. -->
-<p>En ce qui concerne le <code>site Web Quarto</code> et la gestion de projets statistiques, l’utilisation d’une architecture modulaire basée sur des chemins relatifs assure une portabilité et une reproductibilité totales des résultats.En intégrant des systèmes de contrôle, tels que <code>Git</code> ou <code>GitHub</code>, et en documentant les environnements R, il est possible de tracer chaque étape des analyses de données, depuis l’importation brute jusqu’à la visualisation finale. De cette manière, la reproductibilité est garantie, car les versions des <code>packages</code> et les dépendances sont clairement indiquées et fixées</p>
-<p>De plus, l’architecture repose sur un pipeline validé par des assertions et des tests de cohérence des données pour prévenir les valeurs aberrantes (valeurs <code>NA</code>) lors de la manipulation de jeux de données de santé publique.</p>
+<p>L’architecture du projet est centrée sur un pipeline de traitement modulaire (structuré en plusieurs étapes) qui utilise des chemins relatifs et des scripts <code>R</code> autonomes. Ce choix assure une reproductibilité fiable des analyses et un fonctionnement fluide de l’application <code>Shiny.</code> De plus, l’automatisation continue via <code>GitHub Actions</code> garantit que chaque nouveau commit s’exécute correctement sans casser le projet.</p>
+<p>En ce qui concerne la robustesse, le pipeline comprend des vérifications minutieuses et des assertions conditionnelles pour repérer et gérer les valeurs manquantes (<code>NA</code>) ou les données anormales dans les fichiers de données de santé publique, tels que <code>Chirurgie_ListeAttente.csv</code>. Cette méthode empêche la propagation d’erreurs lors du regroupement des tables et sécurise l’intégrité des mesures affichées.</p>
 
 
 </section>
