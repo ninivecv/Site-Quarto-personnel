@@ -21,6 +21,13 @@
     "text": "Usage 2: Révision linguistique et reformulation des textes\n\nOutil utilisé: Antidote (outil de correction et assistant de reformulation intégré)\nTâche demandée: Améliorer la fluidité, la correction syntaxique et la formulation des phrases.\nÉléments conservés: Le sens global, les faits biographiques (formations, expériences) et le ton professionnel souhaité.\nVérifications effectuées: Relecture de chaque proposition de reformulation pour garantir l’intégrité des informations.\nModifications apportées: Validation sélective des suggestions de synonymes et correction de tournures syntaxiques pour obtenir un style plus soigné."
   },
   {
+    "objectID": "declaration-ia.html#usage-3-document-readme.md",
+    "href": "declaration-ia.html#usage-3-document-readme.md",
+    "title": "Déclaration IA",
+    "section": "Usage 3: Document README.md",
+    "text": "Usage 3: Document README.md\n\nOutil utilisé: Gemini - Assistant IA (modèle de langage)\nTâche demandée: Structurer un fichier README.md pour remplacer le gabarit initial par une présentation adaptée aux exigences de remise du cours (liens, commit évalué, description des réalisations).\nÉléments conservés: L’organisation des sections (informations sur le projet, structure du contenu et rappels des commandes Quarto).\nVérifications effectuées: Vérification de la concordance entre les sections proposées et les éléments réellement présents sur le site.\nModifications apportées: Personnalisation des sections avec mes propres liens de dépôt, mon identifiant de commit et mes informations personnelles (non confidentielles).\nLien vers la discussion IA: https://share.gemini.google/uS5Jk5c5Jj2s"
+  },
+  {
     "objectID": "parcours.html",
     "href": "parcours.html",
     "title": "Parcours et compétences",
@@ -103,12 +110,5 @@
     "title": "Ninive Cunha Vigeant",
     "section": "Liens",
     "text": "Liens\n\nGitHub: https://github.com/ninivecv\nSite publié: https://github.com/ninivecv/Site-Quarto-personnel\nLinkedIn: https://www.linkedin.com/in/ninive-cunha-vigeant-563523299/?locale=fr-FR"
-  },
-  {
-    "objectID": "declaration-ia.html#usage-3-document-readme.md",
-    "href": "declaration-ia.html#usage-3-document-readme.md",
-    "title": "Déclaration IA",
-    "section": "Usage 3: Document README.md",
-    "text": "Usage 3: Document README.md\n\nOutil utilisé: Gemini - Assistant IA (modèle de langage)\nTâche demandée: Structurer un fichier README.md pour remplacer le gabarit initial par une présentation adaptée aux exigences de remise du cours (liens, commit évalué, description des réalisations).\nÉléments conservés: L’organisation des sections (informations sur le projet, structure du contenu et rappels des commandes Quarto).\nVérifications effectuées: Vérification de la concordance entre les sections proposées et les éléments réellement présents sur le site.\nModifications apportées: Personnalisation des sections avec mes propres liens de dépôt, mon identifiant de commit et mes informations personnelles (non confidentielles).\nLien vers la discussion IA: https://share.gemini.google/uS5Jk5c5Jj2s"
   }
 ]
