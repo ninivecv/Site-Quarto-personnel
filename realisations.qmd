@@ -3,7 +3,7 @@ title: "Réalisations"
 embed-resources: true
 ---
 
-## Trace du portfolio
+## Portfolio d'apprentissages 
 
 Contexte: Suivi du cours STT-4230/STT-6230 en créant et en remplissant progressivement un dépôt de sessions bien structuré, organisé par semaine (`semaine-XX/`), pour y noter les lectures, les exercices, le code et les réflexions.
 
