@@ -31,5 +31,12 @@ embed-resources: true
 - Vérifications effectuées: Relecture de chaque proposition de reformulation pour garantir l’intégrité des informations.
 - Modifications apportées: Validation sélective des suggestions de synonymes et correction de tournures syntaxiques pour obtenir un style plus soigné.
 
+## Usage 3: Document README.md
 
+- Outil utilisé: Gemini - Assistant IA (modèle de langage)
+- Tâche demandée: Structurer un fichier `README.md` pour remplacer le gabarit initial par une présentation adaptée aux exigences de remise du cours (liens, commit évalué, description des réalisations).
+- Éléments conservés: L'organisation des sections (informations sur le projet, structure du contenu et rappels des commandes Quarto).
+- Vérifications effectuées: Vérification de la concordance entre les sections proposées et les éléments réellement présents sur le site.
+- Modifications apportées: Personnalisation des sections avec mes propres liens de dépôt, mon identifiant de commit et mes informations personnelles (non confidentielles).
+- Lien vers la discussion IA: <https://share.gemini.google/uS5Jk5c5Jj2s>
 
