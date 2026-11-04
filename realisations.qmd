@@ -17,9 +17,7 @@ Ce que cette réalisation démontre: Une excellente rigueur organisationnelle, u
 
 Amélioration possible: Automatiser la création hebdomadaire des fichiers `README.md` pour éliminer la répétition et optimiser la documentation standardisée.
 
-Trace source dans le portfolio: Dépôt sur `GitHub`
-
-Lien: <https://github.com/STT-4230-6230/portfolio-stt4230-nicuv>
+Trace source dans le portfolio: Dépôt privé sur `GitHub`
 
 ## Projet - Analyse comparative des listes d'attente chirurgicale et les délais d'attente des urgences au Québec
 
